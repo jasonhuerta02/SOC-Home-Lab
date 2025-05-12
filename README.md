@@ -17,7 +17,7 @@ Starting this lab, I set-up and configured a Windows 10 machine, which will be t
 
 Next, I ran this command in cmd to permanently disable Defender via Registry.
 
-<img src="windef.png" alt="Windef cmd" width="350">
+<img src="windef.png" alt="Windef cmd" width="500">
 
 I then boot the system into Safe Mode to disable all Defender services before accessing the registry.
 

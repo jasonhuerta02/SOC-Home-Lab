@@ -23,7 +23,7 @@ I then boot the system into Safe Mode to disable all Defender services before ac
 
 <img src="safeMode.png" alt="Safe Mode" width="350">
 
-Once in Safe Mode, I opened up Registry Editor and went to HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services to disable these services: Sense, WdBoot, WinDefend, WdNisDrv, WdNisSvc, and WdFilter. These are disable by setting the start value to 4.
+Once in Safe Mode, I opened up Registry Editor and went to HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services to disable these services: Sense, WdBoot, WinDefend, WdNisDrv, WdNisSvc, and WdFilter. These are disabled by setting the start value to 4.
 
 <img src="regedit.png" alt="regedit" width="350">
 

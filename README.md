@@ -13,7 +13,7 @@ This home lab project was designed to simulate a Security Operations Center (SOC
 
 Starting this lab, I set-up and configured a Windows 10 machine, which will be the target and host for LimaCharlie and an Ubuntu server for C2. The first step is to completey disable Windows Defender. I turned off tamper protection as well as the rest of the virus & threat protection settings, then opened up Local Group Policy Editor with the command "gpedit.msc". Here, I turned off Microsoft Defender Antivirus. 
 
-<img src="gpedit.png" alt="Windows Defender" width="400">
+<img src="gpedit.png" alt="Windows Defender" width="500">
 
 Next, I ran this command in cmd to permanently disable Defender via Registry.
 
@@ -81,4 +81,4 @@ To ensure that these rules work, we can use a feature that tests the event befor
 
 I executed the same lsass dump and went back to detections in LimaCharlie. It detected the threat based off the newly created detection signature.
 
-<img src="detectionsLSASS.png" alt="Detections" width="400">
+<img src="detectionsLSASS.png" alt="Detections" width="500">

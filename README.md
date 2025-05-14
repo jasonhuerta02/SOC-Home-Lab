@@ -6,8 +6,10 @@ This home lab project was designed to simulate a Security Operations Center (SOC
 
 ### Skills Learned
 
-- d
-- d
+- Deployed LimaCharlie as an endpoint detection and response (EDR) platform
+- Created custom Detection & Response (D&R) rules to identify suspicious activity
+- Performed command execution, privilege enumeration, and session management within Sliver to emulate attacker behavior
+- Simulated realistic attack scenarios to test EDR visibility and response
 
 ## Steps
 

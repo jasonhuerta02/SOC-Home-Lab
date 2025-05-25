@@ -2,7 +2,7 @@
 
 ## Objective
 
-This home lab project was designed to simulate a Security Operations Center (SOC) by generating telemetry for security analysis and creating detection and response rules for real-world attack scenarios. This project consisted of weakening a Windows 10 machine's security, generating telemetry with Sysmon, deploying the robust Command and Control (C2) tool, Sliver, and utilizing LimaCharlie to detect and respond to threats. LimaCharlie is a SecOps platform with capablities of Endpoint Detection and Response (EDR), Automated Detection and Response (ADR), telemetry storage, and more.
+This home lab emulated a Security Operations Center (SOC) by generating telemetry for security analysis and creating detection and response rules for real-world attack scenarios. This project consisted of weakening a Windows 10 machine's security, generating telemetry with Sysmon, deploying the robust Command and Control (C2) tool, Sliver, and utilizing LimaCharlie to detect and respond to threats. LimaCharlie is a SecOps platform with capablities of Endpoint Detection and Response (EDR), Automated Detection and Response (ADR), telemetry storage, and more.
 
 ### Skills Learned
 

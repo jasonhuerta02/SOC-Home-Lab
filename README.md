@@ -1,4 +1,4 @@
-# SOC Home Lab
+# LimaCharlie Lab
 
 ## Objective
 
